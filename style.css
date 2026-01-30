@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    margin-bottom: 10px;
+}
+
+#motAffiche {
+    font-size: 2em;
+    letter-spacing: 10px;
+    margin: 20px 0;
+}
+
+#lettresUtilisees {
+    margin: 10px;
+}
+
+#message {
+    font-weight: bold;
+    margin: 15px;
+}
+
+canvas {
+    border: 1px solid #333;
+    background-color: #fff;
+    margin: 10px auto;
+    display: block;
+}
+
+button {
+    padding: 8px 15px;
+    font-size: 1em;
+    cursor: pointer;
+}
